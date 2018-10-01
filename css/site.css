@@ -16,7 +16,8 @@ html{
 
 .header h3{
     text-align: center;
-    margin: 0px 0px 0px 0px;
+    margin-top: -50px;
+    color: #000b3d;
 }
 
 .footer{
