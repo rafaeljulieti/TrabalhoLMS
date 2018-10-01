@@ -1,13 +1,26 @@
 .wrapper{
     font-family: 'Black Ops One', cursive;
     text-align: left;
-}
 
-h2{
-    color: #0088cc;
 }
 
 .wrapper li{
     list-style-type: none;
     display: inline;
+}
+
+.first{
+    color: #00537c;
+}
+
+.second{
+    color: #006da3;
+}
+
+.third{
+    color: #0088cc;
+}
+
+.fourth{
+    color: #0097e2;
 }
